@@ -8,7 +8,6 @@ function App() {
 
       <Employee employeeName="Naveed" designation="Programmer" />
 
-
       <Employee employeeName="Azhar" designation="Analyst" />
 
     </div>
